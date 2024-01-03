@@ -2,5 +2,5 @@
 
 Example using JSP and cookies to save user information
 
-![Diagram](img/cookiesJPG.jpg)
+![Diagram](img/cookies-jsp.jpg)
 
